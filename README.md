@@ -5,4 +5,4 @@
 
 [assisgnment week 5](https://github.com/superdunfinesse/assignments/blob/master/Assignment_week_5.ipynb)
 
-[assingment week 6(https://github.com/superdunfinesse/assignments/blob/master/assignment4.ipynb)
+[assingment week 6](https://github.com/superdunfinesse/assignments/blob/master/assignment4.ipynb)
