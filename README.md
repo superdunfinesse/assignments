@@ -7,4 +7,4 @@
 
 [assingment week 6](https://github.com/superdunfinesse/assignments/blob/master/assignment4.ipynb)
 
-[assingment week 7](https://github.com/superdunfinesse/assignments/blob/master/assignment5(2).ipynb)
+[assingment week 8](https://github.com/superdunfinesse/assignments/blob/master/assignment5(2).ipynb)
