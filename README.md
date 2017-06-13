@@ -8,3 +8,7 @@
 [assingment week 6](https://github.com/superdunfinesse/assignments/blob/master/assignment4.ipynb)
 
 [assingment week 8](https://github.com/superdunfinesse/assignments/blob/master/assignment5(2).ipynb)
+
+[final assignment R](https://github.com/superdunfinesse/assignments/blob/master/R_exam_af.ipynb)
+
+[final assignment python](https://github.com/superdunfinesse/assignments/blob/master/Python_assignment_Finished.ipynb)
